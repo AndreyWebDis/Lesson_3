@@ -1,0 +1,21 @@
+@import "null.css";
+
+
+.header__title {
+   color: red;
+}
+[class*="sub-title"] {
+   color: green;
+}
+
+[class*="list"] {
+   color: blue;
+}
+h3{
+   color: peru;
+}
+
+a{
+   color: inherit;
+   color: palegreen;
+}
